@@ -15,7 +15,7 @@
 **Templates**
 
 * [Idea proposal ](https://drive.google.com/file/d/1elyxLL2kO3cu2EkfldQDGuYJVIcBX8_a/view?usp=sharing)
-* [Wiki content -> README.md skeleto](http://csis.pace.edu/~scharff/gsd2016/WikiTemplate2017.docx)
+* [Wiki content -> README.md skeleton](http://csis.pace.edu/~scharff/gsd2016/WikiTemplate2017.docx)
 * [Wiki skeleton -> README.md skeleton](https://github.com/paceuniversity/cs3892017/wiki/Team-Wiki-Skeleton)
 * [Backlog template/sample](https://docs.google.com/spreadsheets/d/1MyKivK6PZ1WnFGbhxCuuVY6fNfTHdzvYbMDZMuMH5GY/edit?usp=sharing)
 * [Persona](http://csis.pace.edu/~scharff/cs3892019/persona.pdf)
