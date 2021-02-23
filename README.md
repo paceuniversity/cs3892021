@@ -13,7 +13,7 @@
 * [Team 1](https://github.com/paceuniversity/cs389s2021team1)
 * [Team 2](https://github.com/paceuniversity/cs389s2021team2)
 * [Team 3](https://github.com/paceuniversity/cs389s2021team3)
-* [Team 4](https://github.com/paceuniversity/cs389s20121team4)
+* [Team 4](https://github.com/paceuniversity/cs389s2021team4)
 * [Team 5](https://github.com/paceuniversity/cs389s2021team5)
 * [Team 6](https://github.com/paceuniversity/cs389s2021team6)
 * [Team 7](https://github.com/paceuniversity/cs389s2021team7)
