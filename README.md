@@ -40,6 +40,7 @@
 
 ***Requirements***
 * [Backlog template/sample](https://docs.google.com/spreadsheets/d/1MyKivK6PZ1WnFGbhxCuuVY6fNfTHdzvYbMDZMuMH5GY/edit?usp=sharing)*
+* [Requirements discovery](https://docs.google.com/document/d/1h2PEp1vj6_hAhrVrrfT9Tyqvng0rzk7ushrUGxn5Zp8/edit?usp=sharing)*
 * [Persona](http://csis.pace.edu/~scharff/cs3892019/persona.pdf)*
 
 ***Design***
