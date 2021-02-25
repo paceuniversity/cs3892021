@@ -20,7 +20,7 @@
 
 ## Templates
 
-***(* helps you keep track of where we are and what is due)***
+(The asterix * near a template helps you keep track of where we are and what is due)
 
 ***Idea proposal***
 * [Idea proposal](https://docs.google.com/document/d/1elyxLL2kO3cu2EkfldQDGuYJVIcBX8_a/edit)*
