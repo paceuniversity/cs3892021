@@ -1,6 +1,6 @@
 # Welcome to CS389 Spring 2021
 
-## Calendar
+## Milestones of the project
 
 [Google Calendar](https://calendar.google.com/calendar/u/0?cid=aXZoMmU3NjhzMjRkdGlxZWYwcXZvbzhxcjBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
 
