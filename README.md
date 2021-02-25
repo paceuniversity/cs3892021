@@ -20,8 +20,10 @@
 
 ## Templates
 
+***(* helps you keep track of where we are and what is due)***
+
 ***Idea proposal***
-* [Idea proposal ](https://docs.google.com/document/d/1elyxLL2kO3cu2EkfldQDGuYJVIcBX8_a/edit)*
+* [Idea proposal](https://docs.google.com/document/d/1elyxLL2kO3cu2EkfldQDGuYJVIcBX8_a/edit)*
 
 ***Documentation in README.md***
 * [Wiki content -> README.md skeleton](http://csis.pace.edu/~scharff/gsd2016/WikiTemplate2017.docx)*
