@@ -1,6 +1,6 @@
 # Welcome to CS389 Spring 2021
 
-**Calendar**
+## Calendar
 
 [Google Calendar](https://calendar.google.com/calendar/u/0?cid=aXZoMmU3NjhzMjRkdGlxZWYwcXZvbzhxcjBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
 
@@ -8,7 +8,7 @@
 <iframe src="https://calendar.google.com/calendar/embed?src=ivh2e768s24dtiqef0qvoo8qr0%40group.calendar.google.com&ctz=America%2FNew_York" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 -->
 
-**Projects**
+## 2021 projects
 
 * [Team 1](https://github.com/paceuniversity/cs389s2021team1)
 * [Team 2](https://github.com/paceuniversity/cs389s2021team2)
@@ -18,7 +18,7 @@
 * [Team 6](https://github.com/paceuniversity/cs389s2021team6)
 * [Team 7](https://github.com/paceuniversity/cs389s2021team7)
 
-**Templates**
+## Templates
 
 ***Idea proposal***
 * [Idea proposal ](https://docs.google.com/document/d/1elyxLL2kO3cu2EkfldQDGuYJVIcBX8_a/edit)*
