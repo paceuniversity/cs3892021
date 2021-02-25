@@ -18,6 +18,10 @@
 * [Team 6](https://github.com/paceuniversity/cs389s2021team6)
 * [Team 7](https://github.com/paceuniversity/cs389s2021team7)
 
+## Process
+
+* [Description of the process to be followed](https://docs.google.com/document/d/1nplgnYpGackCWt7DxrdJrLnwzIhTQN1JC2BUoP71fwM/edit?usp=sharing)
+
 ## Templates
 
 (The asterix * near a template helps you keep track of where we are and what is due)
@@ -36,6 +40,7 @@
 
 ***Design***
 * [Architecture](http://csis.pace.edu/~scharff/cs3892018/architecture2018.docx)
+* UI/UX (no template)
 
 ***Process***
 * [Sprint planning](http://csis.pace.edu/~scharff/gsd2016/SprintPlanning2016.docx)
