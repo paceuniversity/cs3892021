@@ -22,6 +22,10 @@
 
 * [Description of the process to be followed](https://docs.google.com/document/d/1nplgnYpGackCWt7DxrdJrLnwzIhTQN1JC2BUoP71fwM/edit?usp=sharing)
 
+## Tools
+
+* [Android Studio for Java](https://developer.android.com/studio)
+
 ## Templates
 
 (The asterix * near a template helps you keep track of where we are and what is due)
@@ -64,7 +68,8 @@
 
 ## References
 
-* Process
-  * [XP Game](http://www.agilebelgium.be/xpgame/)
-  * [Scrum Primer](http://www.scrumprimer.org/)
-  * [Pair Programming](https://collaboration.csc.ncsu.edu/laurie/Papers/Kindergarten.PDF)
+* [Ball Point Game](https://scrumology.com/from-the-archives-the-ball-point-game/)
+* [XP Game](http://www.agilebelgium.be/xpgame/)
+* [Scrum Primer](http://www.scrumprimer.org/)
+* [Pair Programming](https://collaboration.csc.ncsu.edu/laurie/Papers/Kindergarten.PDF)
+* [Google Codelabs](https://codelabs.developers.google.com/)
