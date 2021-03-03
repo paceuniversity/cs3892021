@@ -21,7 +21,7 @@
 ## Rubrics
 
 * [Rubrics for project evaluation](https://github.com/paceuniversity/cs3892021/blob/main/NEWEST%20CS389_Rubric_v5_May_2018_September_2020%20(1).xlsx)
-* 
+
 ## Process
 
 * [Description of the process to be followed](https://docs.google.com/document/d/1nplgnYpGackCWt7DxrdJrLnwzIhTQN1JC2BUoP71fwM/edit?usp=sharing)
