@@ -57,7 +57,7 @@
 * [Demo & retrospective template](http://csis.pace.edu/~scharff/gsd2016/Demo%20and%20Retrospective%20Template2016.docx)
 
 ***Presentations and posters***
-* [Presentation outline and Poster - **2019**](http://csis.pace.edu/~scharff/cs3892019/presentationoutline2019.docx)
+* [Presentation outline and Poster - **2021**](http://csis.pace.edu/~scharff/cs3892019/presentationoutline2021.docx)
 * [Presentation outline and Poster - before 2019](http://csis.pace.edu/~scharff/cs3892018/presentationoutline2108.docx)
 * [Reflection on the software process](http://csis.pace.edu/~scharff/cs3892018/softwarereflection2018.docx)
 
